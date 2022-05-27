@@ -28,7 +28,7 @@ https://aka.ms/wvd/clients/windows
 ![image](https://user-images.githubusercontent.com/102814517/170719233-b561ed81-637c-4c02-b361-a0b0781c6478.png)
 3.  Start Eksternt skrivebord-klient
 ![image](https://user-images.githubusercontent.com/102814517/170719322-f89b90f4-00d5-4806-a35f-688521101fab.png)
-4.  Trykk på de tre prikkene (meny) oppe til høyre
+5.  Trykk på de tre prikkene (meny) oppe til høyre
 ![image](https://user-images.githubusercontent.com/102814517/170719390-fb23b22c-fc91-462c-b094-21794b0a2aeb.png)
 5.  Velg «Abonner» for pålogging med epost og «Abonner med URL-adresse» for å benytte URL som pålogging
 ![image](https://user-images.githubusercontent.com/102814517/170719474-2221da7a-bb1b-4dd1-bd80-2d9e7578e85a.png)
